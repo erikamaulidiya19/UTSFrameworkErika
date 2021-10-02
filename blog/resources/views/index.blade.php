@@ -11,7 +11,7 @@
               <div class="card-content">
                 <p class="text-uppercase">Flowers</p>
                 <h4 class="card-title mb-4"><a class="text-white" href="blog-single.html">10 Bunga Paling disukai Perempuan</a></h4>
-                <a class="btn btn-outline-light" href="blog-single.html">read more</a>
+                <a class="btn btn-outline-light" href="/about">read more</a>
               </div>
             </div>
           </article>
@@ -58,7 +58,7 @@
             <div class="card-img-overlay">
               <div class="card-content">
                 <p class="text-uppercase">Buah</p>
-                <h4 class="card-title mb-4"><a class="text-white" href="blog-single.html">10 Buah yang Paling Minati</a></h4>
+                <h4 class="card-title mb-4"><a class="text-white" href="blog-single.html">10 Buah yang Paling diminati</a></h4>
                 <a class="btn btn-outline-light" href="blog-single.html">read more</a>
               </div>
             </div>

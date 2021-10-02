@@ -17,9 +17,9 @@ Route::get('/', function () {
     return view('index');
 });
 
-// Route::get('/', function () {
-//     return view('about');
-// });
+Route::get('/about', function () {
+    return view('about');
+});
 
 // Route::get('/', function () {
 //     return view('blog');
