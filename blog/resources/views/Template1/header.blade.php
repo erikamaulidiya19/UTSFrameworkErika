@@ -21,8 +21,8 @@
   <link href="{!! asset('asset/css/style.css') !!}" rel="stylesheet">
 
   <!--Favicon-->
-  <link rel="shortcut icon" href="{!! asset('asset/images/favicon.ico') !!}" type="image/x-icon">
-  <link rel="icon" href="{!! asset('asset/images/favicon.ico') !!}" type="image/x-icon">
+  <link rel="shortcut icon" href="{!! asset('asset/images/logo.png') !!}" type="image/x-icon">
+  <link rel="icon" href="{!! asset('asset/images/logo.png') !!}" type="image/x-icon">
 
 </head>
 

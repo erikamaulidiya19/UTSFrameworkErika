@@ -6,11 +6,11 @@
       <div class="row featured-post-slider">
         <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
           <article class="card bg-dark text-center text-white border-0 rounded-0">
-            <img class="card-img rounded-0 img-fluid w-100" src="{{ asset('asset/images/featured-post/post-1.jpg')}}" alt="post-thumb">
+            <img class="card-img rounded-0 img-fluid w-100" src="{{ asset('asset/images/mawar.jpg')}}" alt="post-thumb">
             <div class="card-img-overlay">
               <div class="card-content">
-                <p class="text-uppercase">LifeStyle</p>
-                <h4 class="card-title mb-4"><a class="text-white" href="blog-single.html">Organize Your Life With 10 Simple rule</a></h4>
+                <p class="text-uppercase">Flowers</p>
+                <h4 class="card-title mb-4"><a class="text-white" href="blog-single.html">10 Bunga Paling disukai Perempuan</a></h4>
                 <a class="btn btn-outline-light" href="blog-single.html">read more</a>
               </div>
             </div>
@@ -18,12 +18,11 @@
         </div>
         <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
           <article class="card bg-dark text-center text-white border-0 rounded-0">
-            <img class="card-img rounded-0 img-fluid w-100" src="{{ asset('asset/images/featured-post/post-2.jpg')}}" alt="post-thumb">
+            <img class="card-img rounded-0 img-fluid w-100" src="{{ asset('asset/images/buket.jpg')}}" alt="post-thumb">
             <div class="card-img-overlay">
               <div class="card-content">
-                <p class="text-uppercase">Philosophy</p>
-                <h4 class="card-title mb-4"><a class="text-white" href="blog-single.html">Organize Your Life With 10
-                    Simple rule</a></h4>
+                <p class="text-uppercase">Bucket</p>
+                <h4 class="card-title mb-4"><a class="text-white" href="blog-single.html">10 Desain Bucket Terlaris Terjual</a></h4>
                 <a class="btn btn-outline-light" href="blog-single.html">read more</a>
               </div>
             </div>
@@ -31,12 +30,11 @@
         </div>
         <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
           <article class="card bg-dark text-center text-white border-0 rounded-0">
-            <img class="card-img rounded-0 img-fluid w-100" src="{{ asset('asset/images/featured-post/post-3.jpg')}}" alt="post-thumb">
+            <img class="card-img rounded-0 img-fluid w-100" src="{{ asset('asset/images/cake.jpg')}}" alt="post-thumb">
             <div class="card-img-overlay">
               <div class="card-content">
-                <p class="text-uppercase">Fashion</p>
-                <h4 class="card-title mb-4"><a class="text-white" href="blog-single.html">Organize Your Life With 10
-                    Simple rule</a></h4>
+                <p class="text-uppercase">Cake</p>
+                <h4 class="card-title mb-4"><a class="text-white" href="blog-single.html">10 Kue Paling Diminati</a></h4>
                 <a class="btn btn-outline-light" href="blog-single.html">read more</a>
               </div>
             </div>
@@ -44,12 +42,11 @@
         </div>
         <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
           <article class="card bg-dark text-center text-white border-0 rounded-0">
-            <img class="card-img rounded-0 img-fluid w-100" src="{{asset('asset/images/featured-post/post-4.jpg') }}" alt="post-thumb">
+            <img class="card-img rounded-0 img-fluid w-100" src="{{asset('asset/images/pot.jpg') }}" alt="post-thumb">
             <div class="card-img-overlay">
               <div class="card-content">
-                <p class="text-uppercase">Article</p>
-                <h4 class="card-title mb-4"><a class="text-white" href="blog-single.html">Organize Your Life With 10
-                    Simple rule</a></h4>
+                <p class="text-uppercase">Tanaman Hias</p>
+                <h4 class="card-title mb-4"><a class="text-white" href="blog-single.html">10 Tanaman Hias Terindah</a></h4>
                 <a class="btn btn-outline-light" href="blog-single.html">read more</a>
               </div>
             </div>
@@ -57,12 +54,11 @@
         </div>
         <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
           <article class="card bg-dark text-center text-white border-0 rounded-0">
-            <img class="card-img rounded-0 img-fluid w-100" src="{{ asset('asset/images/featured-post/post-5.jpg') }}" alt="post-thumb">
+            <img class="card-img rounded-0 img-fluid w-100" src="{{ asset('asset/images/buah.jpg') }}" alt="post-thumb">
             <div class="card-img-overlay">
               <div class="card-content">
-                <p class="text-uppercase">Nature</p>
-                <h4 class="card-title mb-4"><a class="text-white" href="blog-single.html">Organize Your Life With 10
-                    Simple rule</a></h4>
+                <p class="text-uppercase">Buah</p>
+                <h4 class="card-title mb-4"><a class="text-white" href="blog-single.html">10 Buah yang Paling Minati</a></h4>
                 <a class="btn btn-outline-light" href="blog-single.html">read more</a>
               </div>
             </div>
